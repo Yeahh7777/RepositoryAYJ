@@ -5,5 +5,8 @@ public class A {
 		System.out.println("This is A.java.");
 		
 		System.out.println("This is A.java in Alice branch!");
+		
+		System.out.println("Hi! This is A.java in Bob branch.");
+
 	}
 }
